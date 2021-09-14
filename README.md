@@ -1,2 +1,1 @@
-# testeSiteTindog
-Exercicio de Web
+TinDog Starting Files
